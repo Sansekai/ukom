@@ -1,6 +1,6 @@
 ## Ujian Komprehensif Universitas Megarezky Makassar
-Saya membuat ini masih belajar dan pertama kalinya saya mencoba nexjs dan tailwind css.
-Saya juga sadar masih banyak kekurangan.
+Saya membuat ini masih belajar dan pertama kalinya saya mencoba nexjs dan tailwind css.<br>
+Saya juga sadar masih banyak kekurangan apa yang saya buat ini.
 
 ## This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
