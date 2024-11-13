@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Ujian Komprehensif Universitas Megarezky Makassar
+Saya membuat ini masih belajar dan pertama kalinya saya mencoba nexjs dan tailwind css.
+Saya juga sadar masih banyak kekurangan.
+
+## This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
