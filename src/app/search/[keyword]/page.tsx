@@ -44,7 +44,9 @@ export default async function page({
               <CardContent>
                 <div className="pt-2">
                   <p className="font-bold text-lg">{item.title}</p>
-                  <p>{item.media_type}</p>
+                  <p>{`Type: ${item.media_type}`}</p>
+                  <p>{`Rating: ${item.vote_average}`}</p>
+                  <p>{`Tanggal Rilis: ${item.release_date}`}</p>
                 </div>
               </CardContent>
             </Card>
